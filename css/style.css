@@ -20,3 +20,17 @@
     font-size: 150px;
     text-align: center;
   }
+
+.countdown{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+ul,li{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin-left: 5rem;
+    font-size: 50px;
+}
