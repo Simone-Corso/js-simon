@@ -9,3 +9,14 @@
     justify-content: center;
     margin-top: 5rem;
   }
+
+  body{
+    background-color: rgb(43, 43, 227);
+  }
+
+  
+  h1{
+    color: white;
+    font-size: 150px;
+    text-align: center;
+  }
